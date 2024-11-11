@@ -1,5 +1,5 @@
 # DATE :
-# Wxp -12 Read-from-CSV
+# Exp -12 Read-from-CSV
 
 ## AIM:
 
